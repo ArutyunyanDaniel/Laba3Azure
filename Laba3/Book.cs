@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Laba3
 {
-    class Book
+    public class Book
     {
-        string name { get;set }
+        public string name { get;set }
     }
 }
